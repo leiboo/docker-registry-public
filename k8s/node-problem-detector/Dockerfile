@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.23.0
+FROM quay.io/prometheus/blackbox-exporter:v0.19.0
