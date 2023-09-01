@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/blackbox-exporter:v0.19.0
+FROM quay.io/prometheus/node-exporter:v1.3.1
