@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v2.32.1
+FROM grafana/grafana:8.3.3
