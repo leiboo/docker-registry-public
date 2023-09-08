@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/nfsplugin:v4.4.0
+FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
