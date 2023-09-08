@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/livenessprobe:v2.10.0
+FROM registry.k8s.io/sig-storage/nfsplugin:v4.4.0
