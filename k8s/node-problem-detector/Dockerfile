@@ -1,1 +1,1 @@
-FROM ghcr.io/usememos/memos:latest
+FROM ghcr.io/resmoio/kubernetes-event-exporter:latest
