@@ -1,1 +1,1 @@
-FROM ghcr.io/resmoio/kubernetes-event-exporter:latest
+FROM python:3.9
